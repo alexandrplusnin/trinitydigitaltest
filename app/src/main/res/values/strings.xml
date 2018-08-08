@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trinity Digital Test</string>
+    <string name="error_offline_mode">Отсутствует подключение к сети Интернет</string>
+    <string name="unsuccessful_response">Запрос завершился с кодом ошибки %1$d</string>
+    <string name="network_error_unknown">Неизвестная ошибка</string>
+    <string name="dialogs">Диалоги</string>
+</resources>
